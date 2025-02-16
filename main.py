@@ -1,1 +1,2 @@
 print("venom")
+print("krytoi")
